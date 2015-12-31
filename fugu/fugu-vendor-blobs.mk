@@ -211,7 +211,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/fugu/proprietary/lib/libmixvbp_vc1.so:system/lib/libmixvbp_vc1.so \
     vendor/asus/fugu/proprietary/lib/libmixvbp_vp8.so:system/lib/libmixvbp_vp8.so \
     vendor/asus/fugu/proprietary/lib/libOMXVideoDecoderAVCSecure.so:system/lib/libOMXVideoDecoderAVCSecure.so \
-    vendor/asus/fugu/proprietary/lib/libremotecontrolservice.so:system/lib/libremotecontrolservice.so \
     vendor/asus/fugu/proprietary/lib/libsepdrm_cc54.so:system/lib/libsepdrm_cc54.so \
     vendor/asus/fugu/proprietary/lib/libstlport-mfx.so:system/lib/libstlport-mfx.so \
     vendor/asus/fugu/proprietary/usr/idc/virtual-remote.idc:system/usr/idc/virtual-remote.idc \
